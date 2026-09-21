@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you cite this computational research thesis, please use the metadata below. No DOI is minted here; do not invent one."
+type: thesis
+title: "Anatomical metastasis graphs with edge-wise desmoplastic conductances: lumped burden and edge-rate identifiability"
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+    alias: cloudynirvana
+abstract: >-
+  When each organ-graph edge carries an explicit desmoplastic conductance, do
+  metastatic edge rates remain unidentified from lumped systemic burden, or do
+  barrier observables restore an identifiable subset? On a four-node toy, a
+  series flux collapses each shedding rate and conductance into one
+  combination. Lumped burden leaves that joint parameter at practical rank 2
+  of 6, with a three-dimensional structural kernel along the series level
+  set. Site-resolved node burdens, which identify the three fluxes when each
+  edge has a single rate, still reach only rank 3 of 6 once the conductance
+  is free. Barrier readings restore a subset: all six parameters when the
+  nodes and the three stalled fractions are both recorded, and a proper
+  subset under thinner schedules. A hold-up generator is full structural rank
+  under the lump and practical rank 3 of 6. Not a medical device. No dose.
+  No cure.
+keywords:
+  - metastasis
+  - anatomical graph
+  - desmoplastic conductance
+  - structural identifiability
+  - profile likelihood
+  - Fisher information
+  - lumped burden
+  - toy model
+  - research-only
+license: MIT
+date-released: "2026-09-21"
+url: "https://github.com/cloudynirvana/thesis-21-metastasis-graph-barrier-conductances"
+repository-code: "https://github.com/cloudynirvana/thesis-21-metastasis-graph-barrier-conductances"
+preferred-citation:
+  type: thesis
+  title: "Anatomical metastasis graphs with edge-wise desmoplastic conductances: lumped burden and edge-rate identifiability"
+  authors:
+    - family-names: Ogbonna
+      given-names: Kelechi Emeka
+  year: 2026
+  month: 9
+  url: "https://github.com/cloudynirvana/thesis-21-metastasis-graph-barrier-conductances"
+  notes: "Thesis #21. Depends on Thesis #5 and Thesis #11. Computational research. Toy organ graph, not a clinical result. No document DOI."
